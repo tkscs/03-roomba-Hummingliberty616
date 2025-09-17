@@ -16,7 +16,10 @@ window = room.draw_room(level = 2)
 
 ###
 # Start your code here
- 
+
+
+
+
  
  
 # End your code here

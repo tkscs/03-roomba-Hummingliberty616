@@ -3,3 +3,33 @@
     conda activate cs2425
     conda install Pillow
 2. Open `roomba_level0.py`
+
+left(90)
+
+forward(4*40)
+right(90)
+forward(4*40)
+right(90)
+forward(4*40)
+right(90)
+forward(4*40)
+right(90)
+
+forward(3*40)
+right(90)
+forward(3*40)
+right(90)
+forward(3*40)
+right(90)
+forward(3*40)
+right(90)
+
+forward(2*40)
+right(90)
+forward(2*40)
+right(90)
+forward(2*40)
+right(90)
+forward(2*40)
+right(90)
+ 
